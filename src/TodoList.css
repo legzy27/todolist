@@ -34,7 +34,7 @@
 }
 
 .todoListMain .theList li:hover {
-    background-color: darkblue;
+    background-color: blue;
     cursor: pointer;
 }
 
